@@ -12,6 +12,9 @@ A list of talks made by the Sfeirians
 ## Data
 * [Probabilistic Programming : Tuer un piéton ou sacrifier les passagers ?](talks/probpro.md)
 
+## Back
+* [Cloud Patterns](talks/cloudpatterns.md)
+
 # Speakers
 * [Cyril Balit](speakers/cyrilbalit.md)
 * [Didier Girard](speakers/didiergirard.md)
