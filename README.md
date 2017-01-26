@@ -14,6 +14,8 @@ A list of talks made by the Sfeirians
 * [Cloud Analytics : de 0 à 100 000 événements par seconde en 50'](talks/de0a100.md)
 * [Machine learning et régulation numérique](talks/mletregulation.md)
 
+
+
 ## Back
 * [Cloud Patterns](talks/cloudpatterns.md)
 
