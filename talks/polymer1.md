@@ -12,7 +12,7 @@ Nous verrons ici les derniers apports de Polymer ainsi que des exemples concrets
 
 ### Vidéos
 
-[![Vidéos](https://img.youtube.com/vi/8EQxR1JVmOo/0.jpg)](https://www.youtube.com/watch?v=  )
+[![Vidéos](https://img.youtube.com/vi/8EQxR1JVmOo/0.jpg)](https://www.youtube.com/watch?v=8EQxR1JVmOo)
 
 ### Slides
 
