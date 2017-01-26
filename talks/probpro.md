@@ -8,6 +8,6 @@
  peut développée, ce type de programmation va être une pièce essentielle des
  outils basés sur la composition d'algorithmes de machine learning.
 
- ### Speakers
+## Speakers
 
 [Didier Girard](../speakers/didiergirard.md)
