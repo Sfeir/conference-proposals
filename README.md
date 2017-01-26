@@ -11,6 +11,7 @@ A list of talks made by the Sfeirians
 
 ## Data
 * [Probabilistic Programming : Tuer un piéton ou sacrifier les passagers ?](talks/probpro.md)
+* [loud Analytics : de 0 à 100 000 événements par seconde en 50'](talks/de0a100.md)
 
 ## Back
 * [Cloud Patterns](talks/cloudpatterns.md)
