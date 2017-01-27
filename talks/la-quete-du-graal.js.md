@@ -1,5 +1,7 @@
 # la-quete-du-graal.js
 
+Donnée à [Devoxx 2016](http://www.devoxx.fr/), [Jug Summer Camp 2016](http://www.jugsummercamp.org/edition/7) et [Soft-shake 2016](http://kora.li/c/softshake/e/Donkey_Kong/program).
+
 ## Description
 
 Le choix d'un framework ou d'une librairie peut s'avérer difficile : Angular(s), Backbone, React... Comment s'y retrouver ? Nous vous aiderons dans votre quête ! #LaQueteDuGraalJS
