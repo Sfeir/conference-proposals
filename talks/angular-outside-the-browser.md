@@ -1,4 +1,4 @@
-# Progressive Web Apps
+# Angular Outside The Browser
 
 ## Description
 
