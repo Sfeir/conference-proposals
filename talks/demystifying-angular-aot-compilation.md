@@ -1,4 +1,4 @@
-# Demystifying AOT compilation in Angular 2
+# Demystifying AOT compilation in Angular
 
 ## Description
 
