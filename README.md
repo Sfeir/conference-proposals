@@ -1,7 +1,6 @@
 # conference-proposals
 A list of talks made by the Sfeirians
 
-
 # Talks
 
 ## Front
@@ -21,14 +20,17 @@ A list of talks made by the Sfeirians
 
 ## Back
 * [Cloud Patterns](talks/cloudpatterns.md)
+* [Microservice en Go (handson)](handson/microservice-golang.md)
 
 ## IOT
 * [OK Google: What is Google Home?](talks/hey-google.md)
 * [Des dents bleues dans votre navigateur ](talks/web-bluetooth.md)
-
 
 # Speakers
 * [Cyril Balit](speakers/cyrilbalit.md)
 * [Didier Girard](speakers/didiergirard.md)
 * [Siegfried Ehret](speakers/siegfriedehret.md)
 * [Wassim Chegham](speakers/wassimchegham.md)
+* [Sébastien Friess](speakers/sebfriess.md)
+* [Romain Lespinasse](speakers/romainlespinasse.md)
+
