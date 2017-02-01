@@ -33,4 +33,5 @@ A list of talks made by the Sfeirians
 * [Wassim Chegham](speakers/wassimchegham.md)
 * [Sébastien Friess](speakers/sebfriess.md)
 * [Romain Lespinasse](speakers/romainlespinasse.md)
+* [Wajdi Ben Rabah](speakers/wajdibenrabah.md)
 
