@@ -28,6 +28,7 @@ A list of talks made by the Sfeirians
 
 ## Mobile
 * [Android Virtual Reality with Google Cardboard](talks/virtual_reality_with_android_cardboard.md)
+* [Interaction in parallel worlds with Android](talks/parallel_words_with_android.md)
 
 # Speakers
 * [Cyril Balit](speakers/cyrilbalit.md)
