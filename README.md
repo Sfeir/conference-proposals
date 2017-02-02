@@ -26,6 +26,9 @@ A list of talks made by the Sfeirians
 * [OK Google: What is Google Home?](talks/hey-google.md)
 * [Des dents bleues dans votre navigateur ](talks/web-bluetooth.md)
 
+## Mobile
+* [Android Virtual Reality with Google Cardboard](talks/virtual_reality_with_android_cardboard.md)
+
 # Speakers
 * [Cyril Balit](speakers/cyrilbalit.md)
 * [Didier Girard](speakers/didiergirard.md)
