@@ -26,6 +26,7 @@ A list of talks made by the Sfeirians
 ## IOT
 * [OK Google: What is Google Home?](talks/hey-google.md)
 * [Des dents bleues dans votre navigateur ](talks/web-bluetooth.md)
+* [Google Home Hands On - Introduction to Actions on Google](talks/google_home_hands_on-intro_to_actions_on_google.md)
 
 ## Mobile
 * [Android Virtual Reality with Google Cardboard](talks/virtual_reality_with_android_cardboard.md)
@@ -39,4 +40,4 @@ A list of talks made by the Sfeirians
 * [Sébastien Friess](speakers/sebfriess.md)
 * [Romain Lespinasse](speakers/romainlespinasse.md)
 * [Wajdi Ben Rabah](speakers/wajdibenrabah.md)
-
+* [Elaine Dias Batista](speakers/elainediasbatista.md)
