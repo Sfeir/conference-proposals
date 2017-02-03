@@ -12,6 +12,7 @@ A list of talks made by the Sfeirians
 * [Please Welcome Angular](talks/please-welcome-angular.md)
 * [Angular Loves Observables](talks/angular-loves-observables.md)
 * [Demystifying AOT compilation in Angular](talks/demystifying-angular-aot-compilation.md)
+* [Vue.js, à l'ombre des géants](talks/vuejs.md)
 
 ## Data
 * [Probabilistic Programming : Tuer un piéton ou sacrifier les passagers ?](talks/probpro.md)
