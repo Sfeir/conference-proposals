@@ -20,7 +20,5 @@ comme la solution d'implémentation pour nos projets mobiles.
 [Slides](http://fr.slideshare.net/SfeirGroup/devoxx-fr-2016-progressive-web-apps-par-florian-orpelire-cyril-balit)
 
 ### Speakers
-
-[Cyril Balit](../speakers/cyrilbalit.md)
-
-[Florian Orpelière](../speakers/florianorpeliere.md)
+* [Cyril Balit](../speakers/cyrilbalit.md)
+* [Florian Orpelière](../speakers/florianorpeliere.md)
