@@ -22,4 +22,5 @@ comme la solution d'implémentation pour nos projets mobiles.
 ### Speakers
 
 [Cyril Balit](../speakers/cyrilbalit.md)
+
 [Florian Orpelière](../speakers/florianorpeliere.md)
