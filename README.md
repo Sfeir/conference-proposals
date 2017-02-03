@@ -39,4 +39,4 @@ A list of talks made by the Sfeirians
 * [Sébastien Friess](speakers/sebfriess.md)
 * [Romain Lespinasse](speakers/romainlespinasse.md)
 * [Wajdi Ben Rabah](speakers/wajdibenrabah.md)
-
+* [Florian Orpelière](speakers/florianorpeliere.md)
