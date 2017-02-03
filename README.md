@@ -13,6 +13,7 @@ A list of talks made by the Sfeirians
 * [Angular Loves Observables](talks/angular-loves-observables.md)
 * [Demystifying AOT compilation in Angular](talks/demystifying-angular-aot-compilation.md)
 * [Vue.js, à l'ombre des géants](talks/vuejs.md)
+* [Google Cast API, How Chromecast meets Javascript](talks/google-cast-api.md)
 
 ## Data
 * [Probabilistic Programming : Tuer un piéton ou sacrifier les passagers ?](talks/probpro.md)
@@ -26,6 +27,7 @@ A list of talks made by the Sfeirians
 ## IOT
 * [OK Google: What is Google Home?](talks/hey-google.md)
 * [Des dents bleues dans votre navigateur ](talks/web-bluetooth.md)
+* [Google Home Hands On - Introduction to Actions on Google](talks/google_home_hands_on-intro_to_actions_on_google.md)
 
 ## Mobile
 * [Android Virtual Reality with Google Cardboard](talks/virtual_reality_with_android_cardboard.md)
@@ -40,3 +42,4 @@ A list of talks made by the Sfeirians
 * [Romain Lespinasse](speakers/romainlespinasse.md)
 * [Wajdi Ben Rabah](speakers/wajdibenrabah.md)
 * [Florian Orpelière](speakers/florianorpeliere.md)
+* [Elaine Dias Batista](speakers/elainediasbatista.md)
