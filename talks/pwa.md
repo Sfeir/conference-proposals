@@ -22,4 +22,4 @@ comme la solution d'implémentation pour nos projets mobiles.
 ### Speakers
 
 [Cyril Balit](../speakers/cyrilbalit.md)
-[Cyril Balit](../speakers/florianorpeliere.md)
+[Florian Orpelière](../speakers/florianorpeliere.md)
