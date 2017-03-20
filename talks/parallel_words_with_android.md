@@ -17,8 +17,7 @@ We will show you the different ways to develop a parallel experience and show th
 
 ### Slides
 
-*Work in progress ...*
-
+https://docs.google.com/presentation/d/1Uj1CeEyHnC7aqbfHVU_alMzEl2Yo3GNN49QNSTPcYVQ/edit#slide=id.p48
 
 ### Speaker
 
