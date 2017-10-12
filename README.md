@@ -33,6 +33,9 @@ A list of talks made by the Sfeirians
 * [Android Virtual Reality with Google Cardboard](talks/virtual_reality_with_android_cardboard.md)
 * [Interaction in parallel worlds with Android](talks/parallel_words_with_android.md)
 
+## Ops
+* [HTTPS Everywhere with Let's Encrypt](talks/https-everywhere-with-lets-encrypt.md)
+
 # Speakers
 * [Cyril Balit](speakers/cyrilbalit.md)
 * [Didier Girard](speakers/didiergirard.md)
@@ -43,3 +46,4 @@ A list of talks made by the Sfeirians
 * [Wajdi Ben Rabah](speakers/wajdibenrabah.md)
 * [Florian Orpelière](speakers/florianorpeliere.md)
 * [Elaine Dias Batista](speakers/elainediasbatista.md)
+* [Antoine Leveugle](speakers/antoineleveugle.md)
