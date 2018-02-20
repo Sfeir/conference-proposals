@@ -9,7 +9,7 @@ layout: true
 
 ---
 
-class: impact
+class: impact-title
 
 # {{title}}
 ## With a good subtitle :-)
