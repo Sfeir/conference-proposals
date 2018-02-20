@@ -10,9 +10,6 @@ A list of talks made by the Sfeirians
 * [Demystifying AOT compilation in Angular](talks/demystifying-angular-aot-compilation.md)
 * [Google Cast API, How Chromecast meets Javascript](talks/google-cast-api.md)
 * [JavaScript... \*Soupirs\*](talks/js-soupirs.md)
-<<<<<<< HEAD
-* [Angular Modern Workflow (REX)](talks/rex-modern-angular-workflow.md)
-=======
 * [la-quete-du-graal.js](talks/la-quete-du-graal.js.md)
 * [Lerna : Gestion d'un monorepo](talks/lerna.md)
 * [Mixité dans le monde des webcomponents](talks/webcomp.md)
@@ -20,7 +17,7 @@ A list of talks made by the Sfeirians
 * [Polymer 1.x: Production ready](talks/polymer1.md)
 * [Progressive Web Apps](talks/pwa.md)
 * [Vue.js, à l'ombre des géants](talks/vuejs.md)
->>>>>>> 51280182465bb0d59b5581beeb74b4efbd8437e9
+* [Angular Modern Workflow (REX)](talks/rex-modern-angular-workflow.md)
 
 ## Data
 
@@ -66,6 +63,6 @@ A list of talks made by the Sfeirians
 * [Wajdi Ben Rabah](speakers/wajdibenrabah.md)
 * [Florian Orpelière](speakers/florianorpeliere.md)
 * [Elaine Dias Batista](speakers/elainediasbatista.md)
-* [Fabien Zibi](speakers/fabienzibi.md)
 * [Antoine Leveugle](speakers/antoineleveugle.md)
 * [Wassim Chegham](speakers/wassimchegham.md)
+* [Fabien Zibi](speakers/fabienzibi.md)
