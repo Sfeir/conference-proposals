@@ -17,6 +17,7 @@ A list of talks made by the Sfeirians
 * [Polymer 1.x: Production ready](talks/polymer1.md)
 * [Progressive Web Apps](talks/pwa.md)
 * [Vue.js, à l'ombre des géants](talks/vuejs.md)
+* [Angular Modern Workflow (REX)](talks/rex-modern-angular-workflow.md)
 
 ## Data
 
@@ -60,4 +61,8 @@ A list of talks made by the Sfeirians
 * [Sébastien Friess](speakers/sebfriess.md)
 * [Siegfried Ehret](speakers/siegfriedehret.md)
 * [Wajdi Ben Rabah](speakers/wajdibenrabah.md)
+* [Florian Orpelière](speakers/florianorpeliere.md)
+* [Elaine Dias Batista](speakers/elainediasbatista.md)
+* [Antoine Leveugle](speakers/antoineleveugle.md)
 * [Wassim Chegham](speakers/wassimchegham.md)
+* [Fabien Zibi](speakers/fabienzibi.md)
