@@ -16,6 +16,7 @@ A list of talks made by the Sfeirians
 * [Google Cast API, How Chromecast meets Javascript](talks/google-cast-api.md)
 * [Lerna : Gestion d'un monorepo](talks/lerna.md)
 * [JavaScript... \*Soupirs\*](talks/js-soupirs.md)
+* [Angular Modern Workflow (REX)](talks/rex-modern-angular-workflow.md)
 
 ## Data
 * [Probabilistic Programming : Tuer un piéton ou sacrifier les passagers ?](talks/probpro.md)
