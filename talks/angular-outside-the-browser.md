@@ -17,6 +17,10 @@ If you're curious and want to know and see how Angular is handling universality 
 
 [![Angular Universal](https://img.youtube.com/vi/faWCLmYsFQ8/0.jpg)](https://www.youtube.com/watch?v=faWCLmYsFQ8)
 
+<a href="https://www.youtube.com/watch?v=0Z_SCH5fbR0">
+  <img alt="Angular Universal" src="https://cloud.githubusercontent.com/assets/1699357/22594166/33ffe9de-ea22-11e6-9dbd-c9016ffd4f4b.png" width="480" height="360"/>
+</a>
+
 ### Slides
 
 [http://slides.com/wassimchegham/angular2-universal](http://slides.com/wassimchegham/angular2-universal)

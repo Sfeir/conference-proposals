@@ -13,23 +13,36 @@ A list of talks made by the Sfeirians
 * [Angular Loves Observables](talks/angular-loves-observables.md)
 * [Demystifying AOT compilation in Angular](talks/demystifying-angular-aot-compilation.md)
 * [Vue.js, à l'ombre des géants](talks/vuejs.md)
+* [Google Cast API, How Chromecast meets Javascript](talks/google-cast-api.md)
+* [Lerna : Gestion d'un monorepo](talks/lerna.md)
+* [JavaScript... \*Soupirs\*](talks/js-soupirs.md)
 
 ## Data
 * [Probabilistic Programming : Tuer un piéton ou sacrifier les passagers ?](talks/probpro.md)
 * [Cloud Analytics : de 0 à 100 000 événements par seconde en 50'](talks/de0a100.md)
 * [Machine learning et régulation numérique](talks/mletregulation.md)
+* [Stardog : Web Sémantique à porté de main](talks/stardog.md)
 
 ## Back
 * [Cloud Patterns](talks/cloudpatterns.md)
 * [Microservice en Go (handson)](handson/microservice-golang.md)
+* [Go(tools) 101!](go-toos-101.md)
 
 ## IOT
 * [OK Google: What is Google Home?](talks/hey-google.md)
 * [Des dents bleues dans votre navigateur ](talks/web-bluetooth.md)
+* [Google Home Hands On - Introduction to Actions on Google](talks/google_home_hands_on-intro_to_actions_on_google.md)
 
 ## Mobile
 * [Android Virtual Reality with Google Cardboard](talks/virtual_reality_with_android_cardboard.md)
 * [Interaction in parallel worlds with Android](talks/parallel_words_with_android.md)
+
+## Ops
+* [HTTPS Everywhere with Let's Encrypt](talks/https-everywhere-with-lets-encrypt.md)
+
+## Autres
+
+* [Gagner des super pouvoirs avec le terminal](gagner-des-super-pouvoirs-avec-le-terminal.md)
 
 # Speakers
 * [Cyril Balit](speakers/cyrilbalit.md)
@@ -39,4 +52,7 @@ A list of talks made by the Sfeirians
 * [Sébastien Friess](speakers/sebfriess.md)
 * [Romain Lespinasse](speakers/romainlespinasse.md)
 * [Wajdi Ben Rabah](speakers/wajdibenrabah.md)
-
+* [Florian Orpelière](speakers/florianorpeliere.md)
+* [Elaine Dias Batista](speakers/elainediasbatista.md)
+* [Fabien Zibi](speakers/fabienzibi.md)
+* [Antoine Leveugle](speakers/antoineleveugle.md)
