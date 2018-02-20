@@ -1,4 +1,5 @@
 # conference-proposals
+
 A list of talks made by the Sfeirians
 
 # Talks
@@ -52,17 +53,15 @@ A list of talks made by the Sfeirians
 * [Gagner des super pouvoirs avec le terminal](gagner-des-super-pouvoirs-avec-le-terminal.md)
 
 # Speakers
+
 * [Antoine Leveugle](speakers/antoineleveugle.md)
 * [Cyril Balit](speakers/cyrilbalit.md)
 * [Didier Girard](speakers/didiergirard.md)
 * [Elaine Dias Batista](speakers/elainediasbatista.md)
+* [Fabien Zibi](speakers/fabienzibi.md)
 * [Florian Orpelière](speakers/florianorpeliere.md)
 * [Romain Lespinasse](speakers/romainlespinasse.md)
 * [Sébastien Friess](speakers/sebfriess.md)
 * [Siegfried Ehret](speakers/siegfriedehret.md)
 * [Wajdi Ben Rabah](speakers/wajdibenrabah.md)
-* [Florian Orpelière](speakers/florianorpeliere.md)
-* [Elaine Dias Batista](speakers/elainediasbatista.md)
-* [Antoine Leveugle](speakers/antoineleveugle.md)
 * [Wassim Chegham](speakers/wassimchegham.md)
-* [Fabien Zibi](speakers/fabienzibi.md)
