@@ -54,4 +54,5 @@ A list of talks made by the Sfeirians
 * [Wajdi Ben Rabah](speakers/wajdibenrabah.md)
 * [Florian Orpelière](speakers/florianorpeliere.md)
 * [Elaine Dias Batista](speakers/elainediasbatista.md)
+* [Fabien Zibi](speakers/fabienzibi.md)
 * [Antoine Leveugle](speakers/antoineleveugle.md)
