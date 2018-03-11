@@ -18,7 +18,7 @@ A list of talks made by the Sfeirians
 * [Polymer 1.x: Production ready](talks/polymer1.md)
 * [Progressive Web Apps](talks/pwa.md)
 * [Vue.js, à l'ombre des géants](talks/vuejs.md)
-* [Angular Modern Workflow (REX)](talks/rex-modern-angular-workflow.md)
+* [Take care of your style!](talks/take-care-of-your-style.md)
 
 ## Data
 
