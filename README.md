@@ -50,7 +50,7 @@ A list of talks made by the Sfeirians
 
 ## Autres
 
-* [Gagner des super pouvoirs avec le terminal](gagner-des-super-pouvoirs-avec-le-terminal.md)
+* [Gagner des super pouvoirs avec le terminal](talks/gagner-des-super-pouvoirs-avec-le-terminal.md)
 
 # Speakers
 
