@@ -10,4 +10,4 @@ Au menu : coté Dev : Spring Boot/Cloud, coté Ops : Docker, Kubernetes et GCP
 
 ## Speakers
 
-[Wassim Chegham](../speakers/youssefguenoun.md)
+[Youssef Guenoun](../speakers/youssefguenoun.md)
