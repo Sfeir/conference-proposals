@@ -6,7 +6,7 @@ La méthodologie 12-factor représente un manifeste qui décrit une feuille de r
 
 Tout au long de cette présentation nous allons analyser chaque point de ce manifeste et voir concrétement comment les mettre en oeuvre dans une application backend java.
 
-Au menu : coté Dev : Spring Boot/Cloud, coté Ops : Docker, Kubernetes et GCP
+Au menu : coté Dev : Spring Boot/Cloud, coté Ops : Docker, Kubernetes, Istio, Skaffold et GCP
 
 ## Speakers
 
